@@ -1,0 +1,6 @@
+[submodule "netstats_printer/RIOT"]
+	path = netstats_printer/RIOT
+	url = https://github.com/cgundogan/RIOT
+[submodule "udp_counter/RIOT"]
+	path = udp_counter/RIOT
+	url = https://github.com/cgundogan/RIOT.git
