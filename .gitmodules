@@ -4,3 +4,6 @@
 [submodule "udp_counter/RIOT"]
 	path = udp_counter/RIOT
 	url = https://github.com/cgundogan/RIOT.git
+[submodule "unreachability_time/RIOT"]
+	path = unreachability_time/RIOT
+	url = https://github.com/cgundogan/RIOT.git
