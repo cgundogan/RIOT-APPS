@@ -7,3 +7,6 @@
 [submodule "unreachability_time/RIOT"]
 	path = unreachability_time/RIOT
 	url = https://github.com/cgundogan/RIOT.git
+[submodule "udp_pdr/RIOT"]
+	path = udp_pdr/RIOT
+	url = https://github.com/cgundogan/RIOT.git
